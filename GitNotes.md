@@ -1,4 +1,3 @@
-# learn_git
 ##### 写在前面
 [廖雪峰Git教程](http://t.cn/zQ6LFwE) 
 
